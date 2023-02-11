@@ -1,0 +1,2 @@
+# Egzamin
+Rozwiązane zadanie praktyczne
